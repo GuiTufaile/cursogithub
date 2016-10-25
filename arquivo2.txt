@@ -1,1 +1,1 @@
-aaa \n bbb \n ccc
+aaa
